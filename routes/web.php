@@ -1,3 +1,4 @@
+// Teste de deploy automático
 <?php
 
 use Illuminate\Support\Facades\Route;
